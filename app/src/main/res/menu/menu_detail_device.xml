@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:menuCategory="container">
+
+        <item android:id="@+id/set_wifi"
+            android:title="Set Wi-Fi"
+            android:icon="@drawable/ic_baseline_wifi_green_24"
+            app:showAsAction="always"/>
+
+    </group>
+
+</menu>
